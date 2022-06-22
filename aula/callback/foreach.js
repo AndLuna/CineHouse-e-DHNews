@@ -1,0 +1,1 @@
+// unica função é encontrar um elemento do array
