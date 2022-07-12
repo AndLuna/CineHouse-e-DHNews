@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    max-width: 800px;
+    min-height: 100vh;
+    border: 30px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+#dhn {
+    color: red;
+}
+
+p {
+    margin-top: -5px;
+}
+
+ol#lista1 {
+    margin-top: 1px;
+    margin-bottom: 25px;
+    font-size: 14px;
+}
+
+#linha {
+    width: 100%;
+    border: 0.1px solid lightgray;
+    margin-top: 10px;
+}
+
+.icons {
+    display: flex;
+    gap: 20px;
+    /*distancia entre os icones */
+    width: 100%;
+    /*centralização */
+    margin-top: 20px;
+    /*separar os icones dos inputs de loguin */
+    margin-bottom: 10px;
+    margin-left: 35%;
+}
+
+.icons img {
+    width: 35px;
+}
